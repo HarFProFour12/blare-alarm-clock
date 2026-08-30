@@ -1,0 +1,2 @@
+const char* SSID = "VODAFONE_H268Q-3745";
+const char* PASSWORD = "GXZfAAE3THGDkK6Y";
