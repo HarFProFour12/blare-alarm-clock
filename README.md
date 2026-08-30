@@ -83,11 +83,10 @@ What I've done so far:
 * Alarm sound selection
 * Time sync over wifi
 * Alarm trigger logic
+* Snooze/dismiss handling
 
 I have left to do:
 
-* Snooze/dismiss handling
-* Non-blocking buzzer playback
 * Hardware testing on the assembled PCB
 
 ## Design
