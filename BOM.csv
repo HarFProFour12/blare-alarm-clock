@@ -1,6 +1,9 @@
-Reference,Part,Quantity
-SW1,6×6 mm momentary push button (SW_Push),6
-U2,Seeed Studio XIAO ESP32-C3-SMD,1
-BZ1,3.3 V active buzzer,1
-J1,1×8 pin 2.54 mm header,1
-LCD1,2.25 inch SPI TFT LCD display,1
+Part,Quantity
+6×6 mm momentary push button (SW_Push),6
+Seeed Studio XIAO ESP32-C3-SMD,1
+3.3 V active buzzer,1
+1×8 pin 2.54 mm header,1
+2.25 inch SPI TFT LCD display,1
+M3 Screws,8
+Female to Female Jumper Wires,8
+M3x5x4 Heatset Inserts,8
